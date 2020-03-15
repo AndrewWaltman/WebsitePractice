@@ -1,0 +1,19 @@
+p, h2, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: red;
+}
+
+.blueFont{
+    color: blue;
+}
+
+#HeaderFont{
+    font-family: Wingding;
+}
+
+.blackBorder{
+    border: 2px solid aqua;
+}
